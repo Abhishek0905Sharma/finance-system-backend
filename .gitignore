@@ -1,0 +1,7 @@
+cd C:\Users\home\OneDrive\Desktop\I\finance_system
+notepad .gitignore
+
+*.db
+__pycache__/
+*.pyc
+.env
